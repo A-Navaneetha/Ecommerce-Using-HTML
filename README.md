@@ -49,8 +49,6 @@ index.html
 
 in any web browser.
 
----
-
 ## 🎯 Learning Objectives
 
 This project was created to practice:
