@@ -61,6 +61,9 @@ This project was created to practice:
 * Responsive design concepts
 * Basic web development skills
 
+## Deployment
+Deployed using GitHub Pages
+
 ## 🔮 Future Enhancements
 
 * Add CSS styling
